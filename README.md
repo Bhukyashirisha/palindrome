@@ -1,3 +1,4 @@
 # palindrome
 # palindrome
 # palindrome
+# average
